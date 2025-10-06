@@ -1,0 +1,11 @@
+flask
+gunicorn
+python-dotenv
+dspy-ai
+pandas
+openpyxl
+tqdm
+sentence-transformers
+chromadb
+numpy
+werkzeug
